@@ -2,6 +2,8 @@ import CategoryItem from '../category-item/category-item.component';
 
 import './categories.styles.scss';
 
+/* --------------------------------------------------------------------------------- */
+
 const categories = [
   {
     id: 1,
